@@ -20,16 +20,18 @@ def selection_sort(arr)
   end
   return arr
 
-  
-  # even_arr = []
-  # i = 0
-  # while [i <= (arr.size-1)]
-  #   j = arr.min
-  #   arr = arr - (j.to_s)
-  #   even_arr << j
-  #   i+=1
-  # end
-  # return even_arr
+#
+#   even_arr = []
+#   i = 0
+#   while [i <= (arr.size-1)]
+#     j = arr.min
+#     arr = arr - [j.to_s]
+#     even_arr << j
+#     i+=1
+#   end
+#   return even_arr
+
+
 end
 
 arr =  [7, 68, 42, 46, 9, 91, 77, 46, 86, 1]
